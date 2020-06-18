@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: VGPop Census for 3.3.5
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables:
+## OG Author: Voidmenull
+## Upported by: "Bset"
+## Link: OG: https://github.com/Voidmenull/VGPopulation
+##        +: https://github.com/TVBrowntown/VGPop_Census/
+
+##VGPopulation.lua
+
+VGPopulationExtended.lua
